@@ -26,7 +26,7 @@ jobs:
     - name: Build
       run: |
         npm install
-        npx webpack
+        API_KEY=${{ secrets.API_KEY }} npx webpack
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
