@@ -3,7 +3,7 @@
 A simple weather application built with **JavaScript**, following a clean **MVC (Model–View–Controller)** architecture.
 It allows users to search for a city and view current weather data.
 
-Live:
+Live: https://mrbeamer.github.io/weather-app-2/
 
 ---
 
